@@ -4,3 +4,5 @@
 
 ## índice
 - [Título, Sub título e Imagem da capa](#titulo-sub-titulo-e-imagen-de-capa)
+- [Descrição do Projeto](#decricao-do-projeto)
+- [Funcionalidade e demostração da Aplicação](#funcionalidade-e-edemostração-da-aplicação)
