@@ -7,15 +7,15 @@
 ![Capa do Projeto](https://github.com/user-attachments/assets/5a49cb09-a7d7-4db1-9505-fd917721d40a)
 
 ## Índice
-- [🎯Título, Sub título e Imagem de Capa](#titulo-sub-titulo-e-imagen-de-capa)
-- [📌Ìndice](#indice)
-- [📝Descrição do Projeto](#descricao-do-projeto)
-- [🔨Funcionalidade](#funcionalidades)
+- [🎯 Título, Sub título e Imagem de Capa](#titulo-sub-titulo-e-imagen-de-capa)
+- [📌 Ìndice](#indice)
+- [📝 Descrição do Projeto](#descricao-do-projeto)
+- [🔨 Funcionalidade](#funcionalidades)
 - [🎥 Demostração da Aplicação](#demostracao-da-aplicacao)
-- [🚀Acesso ao Projeto](#acesso-ao-projeto)
-- [🛠Tecnologias utilizadas](#tecnologias-utilizadas)
-- [👩‍💻Pessoa Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-- [✅Conclusão](#conclusao)
+- [🚀 Acesso ao Projeto](#acesso-ao-projeto)
+- [🛠 Tecnologias utilizadas](#tecnologias-utilizadas)
+- [👩‍💻 Pessoa Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
+- [✅ Conclusão](#conclusao)
 
 ##  Descrição do Projeto
 
