@@ -96,7 +96,7 @@ Se solicitado, selecione o Java 17 como SDK.
 
 O conversor será iniciado e estará pronto para uso.
 
-## Tecnologias Utilizadas
+## Tecnologia utilizada
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
