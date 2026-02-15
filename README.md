@@ -11,7 +11,6 @@
 - [📌 Ìndice](#indice)
 - [✨ Descrição do projeto](#descricao-do-projeto)
 - [🔨 Funcionalidade](#funcionalidades)
-- [🎥 Demostração da Aplicação](#demostracao-da-aplicacao)
 - [🚀 Acesso ao Projeto](#acesso-ao-projeto)
 - [🛠 Tecnologias utilizadas](#tecnologias-utilizadas)
 - [👩‍💻 Pessoa Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
@@ -40,13 +39,6 @@ O projeto é ideal para iniciantes que querem aprender:
 - 🖥️ Consumo de API com taxas de câmbio 
 - ✅ Entrada de valores personalizada pelo usuário
 - 🔄Estrutura de código organizada e reutilizável
-
-### Demonstração da Aplicação
-1. O usuário informa o valor que deseja converter
-2. Seleciona a moeda de origem
-3. Seleciona a moeda de destino
-4. O sistema consulta a API de câmbio
-5. O valor convertido é exibido na tela
 
 ### Acesso ao Projeto
 
