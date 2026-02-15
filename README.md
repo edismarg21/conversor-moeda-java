@@ -1,5 +1,9 @@
-# Seu dinheiro em diferentes moedas <h1/>
-### 💰Transforme moedas com apenas alguns cliques!
+<p align="center">
+
+<h1>Seu dinheiro em moedas diferentes</h1>
+
+<h3>💰 Transforme moedas com apenas alguns cliques!</h3>
+
 ![Capa do Projeto](https://github.com/user-attachments/assets/5a49cb09-a7d7-4db1-9505-fd917721d40a)
 
 ## Índice
