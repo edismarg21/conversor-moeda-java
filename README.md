@@ -22,7 +22,7 @@ O projeto é ideal para iniciantes que querem aprender:
 - Manipulação de JSON com Gson
 - Boas práticas de programação em Java
 
-  ## ✨ Funcionalidades e Demonstração da Aplicação
+ ## ✨ Funcionalidades e Demonstração da Aplicação
 
 ### Funcionalidades
 
