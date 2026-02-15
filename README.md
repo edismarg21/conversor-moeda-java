@@ -4,5 +4,20 @@
 
 ## índice
 - [Título, Sub título e Imagem da capa](#titulo-sub-titulo-e-imagen-de-capa)
-- [Descrição do Projeto](#decricao-do-projeto)
-- [Funcionalidade e demostração da Aplicação](#funcionalidade-e-edemostração-da-aplicação)
+- [Descrição do Projeto](#descricao-do-projeto)
+- [Funcionalidade e demostração da Aplicação](#funcionalidade-e-edemostracao-da-aplicacao)
+- [Acesso ao Projeto](#acesso-ao-projeto)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Pessoa Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
+-  [Conclusão](#conclusao)
+
+## 📝 Descrição do Projeto
+
+Este é um **conversor de moedas** desenvolvido em **java** que que utiliza `HttpClient` para realizar requisições a uma API de câmbio em tempo real.
+
+Ele permite que o usuário converta valores entre diversas moedas de maneira rápida e prática diretamente pelo console.
+
+O projeto é ideal para iniciantes que querem aprender:
+- Requisições HTTP com Java
+- Manipulação de JSON com Gson
+- Boas práticas de programação em Java
