@@ -13,7 +13,7 @@
 
 ## 📝 Descrição do Projeto
 
-Este é um **conversor de moedas** desenvolvido em **java** que que utiliza `HttpClient` para realizar requisições a uma API de câmbio em tempo real.
+Este é um **conversor de moedas** desenvolvido em **Java** que que utiliza `HttpClient` para realizar requisições a uma API de câmbio em tempo real.
 
 Ele permite que o usuário converta valores entre diversas moedas de maneira rápida e prática diretamente pelo console.
 
@@ -21,3 +21,15 @@ O projeto é ideal para iniciantes que querem aprender:
 - Requisições HTTP com Java
 - Manipulação de JSON com Gson
 - Boas práticas de programação em Java
+
+  ## ✨ Funcionalidades e Demonstração da Aplicação
+
+### Funcionalidades
+
+- 💰 Conversão de moedas em tempo real
+- 🖥️ Interface simples via console
+- ✅ Código organizado e de fácil manutenção
+- 🔄 Suporte a múltiplas moedas
+
+### Demonstração
+
