@@ -49,7 +49,6 @@ O projeto é ideal para iniciantes que querem aprender:
 5. O valor convertido é exibido na tela
 
 ### Acesso ao Projeto
-## 🚀 Acesso ao Projeto
 
 Siga os passos abaixo para executar o Conversor de Moedas no seu computador.
 
