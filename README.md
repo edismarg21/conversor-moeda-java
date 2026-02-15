@@ -9,7 +9,7 @@
 ## Índice
 - [🎯 Título, Sub título e Imagem de Capa](#titulo-sub-titulo-e-imagen-de-capa)
 - [📌 Ìndice](#indice)
-- [✨ Descrição](#descricao)
+- [✨ Descrição do projeto](#descricao-do-projeto)
 - [🔨 Funcionalidade](#funcionalidades)
 - [🎥 Demostração da Aplicação](#demostracao-da-aplicacao)
 - [🚀 Acesso ao Projeto](#acesso-ao-projeto)
