@@ -16,7 +16,7 @@
 - [👩‍💻 Pessoa Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 - [✅ Conclusão](#conclusao)
 
-##  Descrição do Projeto
+###  Descrição do Projeto
 
 Este projeto foi desenvolvido com o objetivo de realizar a **Conversão de Valores** entre diferentes moedas de forma rápida e prática.
 
@@ -31,16 +31,16 @@ O projeto é ideal para iniciantes que querem aprender:
 - Manipulação de JSON com Gson
 - Boas práticas de programação em Java
 
- ## Funcionalidades e Demonstração da Aplicação
+ ### Funcionalidades e Demonstração da Aplicação
 
-### Funcionalidades
+## Funcionalidades
 
 - 💰 Conversão entre multiplas moedas em tempo real
 - 🖥️ Consumo de API com taxas de câmbio 
 - ✅ Entrada de valores personalizada pelo usuário
 - 🔄Estrutura de código organizada e reutilizável
 
-### Acesso ao Projeto
+## Acesso ao Projeto
 
 Siga os passos abaixo para executar o Conversor de Moedas no seu computador.
 
@@ -53,7 +53,7 @@ Antes de começar, você precisa ter instalado:
 
 ---
 
-### ✔ 1. Clone o repositório
+## ✔ 1. Clone o repositório
 
 Abra o terminal (Prompt de Comando no Windows) e execute:
 
@@ -61,7 +61,7 @@ git clone https://github.com/edismarg21/conversor-de-moedas.git
 
 ---
 
-### ✔ 2. Abra a pasta do projeto
+## ✔ 2. Abra a pasta do projeto
 
 Após o download, entre na pasta criada:
 
@@ -69,7 +69,7 @@ cd conversor-de-moedas
 
 ---
 
-### ✔ 3. Abra o projeto na IDE
+## ✔ 3. Abra o projeto na IDE
 
 1. Abra o IntelliJ IDEA  
 2. Clique em "Open"  
@@ -80,7 +80,7 @@ Se solicitado, selecione o Java 17 como SDK.
 
 ---
 
-### ✔ 4. Execute o programa
+## ✔ 4. Execute o programa
 
 1. Localize o arquivo Main.java  
 2. Clique com o botão direito  
@@ -92,35 +92,35 @@ O conversor será iniciado e estará pronto para uso.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-### ☕ Linguagem
+## ☕ Linguagem
 ➡ **Java**  
 Linguagem principal utilizada no desenvolvimento da aplicação.
 
 ---
 
-### 🌐 Comunicação com API
+## 🌐 Comunicação com API
 ➡ **HTTP Client (java.net.http)**  
 Responsável por realizar requisições e obter as taxas de câmbio em tempo real.
 
 ---
 
-### 📦 Processamento de Dados
+## 📦 Processamento de Dados
 ➡ **Gson**  
 Biblioteca utilizada para leitura e manipulação de dados JSON.
 
 ---
 
-### 💻 Ambiente de Desenvolvimento
+## 💻 Ambiente de Desenvolvimento
 ➡ **IntelliJ IDEA**  
 IDE utilizada para desenvolvimento e execução do projeto.
 
 ---
 
-### 💱 Serviço Externo
+## 💱 Serviço Externo
 ➡ **API de Câmbio**  
 Fornece os valores atualizados para conversão de moedas.
 
-## 👩‍💻 Pessoa Desenvolvedora do Projeto
+### 👩‍💻 Pessoa Desenvolvedora do Projeto
 
 Projeto desenvolvido por:
 
@@ -130,7 +130,7 @@ GitHub: https://github.com/edismarg21
 
 Este projeto foi criado como prática de desenvolvimento em Java e consumo de APIs.
 
-## ✅ Conclusão
+### ✅ Conclusão
 
 O Conversor de Moedas demonstra a aplicação prática de conceitos importantes de desenvolvimento em Java, como consumo de APIs externas, manipulação de dados em JSON e organização de código orientado a objetos.
 
