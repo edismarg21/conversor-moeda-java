@@ -6,6 +6,5 @@ public class RespostaAPI {
    public Map <String, Double> getConversion_rates() {
        return conversion_rates;
    }
-
-    }
+}
 

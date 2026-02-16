@@ -6,7 +6,7 @@ public class Principal {
         ServicoConversao servico = new ServicoConversao();
 
         int opcao = 0;
-        while (opcao != 10 ){
+        while (opcao != 11 ){
             System.out.println("\n===CONVERSOR DE MOEDAS ===");
             System.out.println("1 - USD => BRL");
             System.out.println("2 - BRL => USD");
@@ -23,7 +23,11 @@ public class Principal {
 
             opcao = leitura.nextInt();
 
-            if(opcao >= 1 && opcao <=  10 ){
+            if (opcao == 11 ){
+                break;
+            }
+
+            if(opcao >= 1 && opcao <=  10 ) {
 
                 System.out.println("Digite o valor: ");
                 double valor = leitura.nextDouble();
